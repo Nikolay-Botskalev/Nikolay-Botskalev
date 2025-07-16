@@ -15,7 +15,8 @@
 </div>
 
 ## 📈 Статистика GitHub
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikolay-Botskalev&show_icons=true&theme=radical&hide_title=true&hide=stars,forks)](https://github.com/Nikolay-Botskalev)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikolay-Botskalev&show_icons=true&theme=radical&hide_title=true&hide=stars,forks&hide_progress=true)](https://github.com/Nikolay-Botskalev)
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikolay-Botskalev&layout=compact&theme=radical&hide_title=true&hide=html,css)](https://github.com/Nikolay-Botskalev)
 
 ## 📫 Связь
