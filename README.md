@@ -14,10 +14,5 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 
-## 📈 Статистика GitHub
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikolay-Botskalev&show_icons=true&theme=radical&hide_title=true&hide=stars,forks&hide_progress=true)](https://github.com/Nikolay-Botskalev)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikolay-Botskalev&layout=compact&theme=radical&hide_title=true&hide=html,css)](https://github.com/Nikolay-Botskalev)
-
 ## 📫 Связь
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bow_castle)
