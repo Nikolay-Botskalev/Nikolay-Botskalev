@@ -1,7 +1,7 @@
 # Привет, я Николай 👋
 Инженер | Python-разработчик
 
-## 🛠 Технологии и инструменты
+## 🛠 Технический стек
 <div style="display: flex; flex-wrap: wrap; gap: 10px; font-size: 1.2em;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
