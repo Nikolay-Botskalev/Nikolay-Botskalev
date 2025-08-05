@@ -16,11 +16,5 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" style="transition: transform 0.3s ease;">
 </div>
 
-<style>
-  img:hover {
-    transform: scale(1.05);
-  }
-</style>
-
 ## 📫 Связь
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bow_castle)
