@@ -1,17 +1,32 @@
 # Привет, я Николай 👋
 Инженер | Python-разработчик
 
-## 🛠 Технический стек
+## 🚀 Навыки и технологии
+
+### 🐍 Языки программирования:
 <div style="display: flex; flex-wrap: wrap; gap: 10px; font-size: 1.2em;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white">
-  <img src="https://img.shields.io/badge/Scrapy-44A833?style=for-the-badge&logo=scrapy&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="" alt="Python" width="40">
+</div>
+
+### ⚙️ Фреймворки и библиотеки:
+<div style="display: flex; flex-wrap: wrap; gap: 10px; font-size: 1.2em;">
+  <img src="" alt="Django" width="40">
+  <img src="" alt="FastAPI" width="40">
+  <img src="" alt="Selenium" width="40">
+  <img src="" alt="SQLAlchemy" width="40">
+  <img src="" alt="Scrapy" width="40">
+</div>
+
+### 🗄️ Базы данных:
+<div style="display: flex; flex-wrap: wrap; gap: 10px; font-size: 1.2em;">
+  <img src="" alt="PostgreSQL" width="40">
+</div>
+
+### 🐳 Инструменты:
+<div style="display: flex; flex-wrap: wrap; gap: 10px; font-size: 1.2em;">
+  <img src="" alt="Docker" width="40">
+  <img src="" alt="Git" width="40">
+  <img src="" alt="Linux" width="40">
 </div>
 
 ## 📫 Связь
