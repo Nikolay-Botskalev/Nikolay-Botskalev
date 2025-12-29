@@ -139,9 +139,6 @@
   </tr>
 </table>
 
-## 📊 Статистика
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nikolay-Botskalev&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikolay-Botskalev&layout=compact&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Связь
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bow_castle)
